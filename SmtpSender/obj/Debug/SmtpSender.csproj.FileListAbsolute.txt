@@ -1,0 +1,29 @@
+c:\users\аленка\documents\visual studio 2015\Projects\SmtpSender\SmtpSender\bin\Debug\SmtpSender.exe.config
+c:\users\аленка\documents\visual studio 2015\Projects\SmtpSender\SmtpSender\bin\Debug\SmtpSender.exe
+c:\users\аленка\documents\visual studio 2015\Projects\SmtpSender\SmtpSender\bin\Debug\SmtpSender.pdb
+c:\users\аленка\documents\visual studio 2015\Projects\SmtpSender\SmtpSender\obj\Debug\SmtpSender.csprojResolveAssemblyReference.cache
+c:\users\аленка\documents\visual studio 2015\Projects\SmtpSender\SmtpSender\obj\Debug\SmtpSender.Form1.resources
+c:\users\аленка\documents\visual studio 2015\Projects\SmtpSender\SmtpSender\obj\Debug\SmtpSender.Properties.Resources.resources
+c:\users\аленка\documents\visual studio 2015\Projects\SmtpSender\SmtpSender\obj\Debug\SmtpSender.csproj.GenerateResource.Cache
+c:\users\аленка\documents\visual studio 2015\Projects\SmtpSender\SmtpSender\obj\Debug\SmtpSender.exe
+c:\users\аленка\documents\visual studio 2015\Projects\SmtpSender\SmtpSender\obj\Debug\SmtpSender.pdb
+C:\Users\aleks\Desktop\SmtpSender\SmtpSender\bin\Debug\SmtpSender.exe.config
+C:\Users\aleks\Desktop\SmtpSender\SmtpSender\bin\Debug\SmtpSender.exe
+C:\Users\aleks\Desktop\SmtpSender\SmtpSender\bin\Debug\SmtpSender.pdb
+C:\Users\aleks\Desktop\SmtpSender\SmtpSender\obj\Debug\SmtpSender.csprojResolveAssemblyReference.cache
+C:\Users\aleks\Desktop\SmtpSender\SmtpSender\obj\Debug\SmtpSender.Form1.resources
+C:\Users\aleks\Desktop\SmtpSender\SmtpSender\obj\Debug\SmtpSender.Properties.Resources.resources
+C:\Users\aleks\Desktop\SmtpSender\SmtpSender\obj\Debug\SmtpSender.csproj.GenerateResource.Cache
+C:\Users\aleks\Desktop\SmtpSender\SmtpSender\obj\Debug\SmtpSender.csproj.CoreCompileInputs.cache
+C:\Users\aleks\Desktop\SmtpSender\SmtpSender\obj\Debug\SmtpSender.exe
+C:\Users\aleks\Desktop\SmtpSender\SmtpSender\obj\Debug\SmtpSender.pdb
+D:\Рабочий стол\SmtpSender\SmtpSender\bin\Debug\SmtpSender.exe.config
+D:\Рабочий стол\SmtpSender\SmtpSender\bin\Debug\SmtpSender.exe
+D:\Рабочий стол\SmtpSender\SmtpSender\bin\Debug\SmtpSender.pdb
+D:\Рабочий стол\SmtpSender\SmtpSender\obj\Debug\SmtpSender.csprojResolveAssemblyReference.cache
+D:\Рабочий стол\SmtpSender\SmtpSender\obj\Debug\SmtpSender.Properties.Resources.resources
+D:\Рабочий стол\SmtpSender\SmtpSender\obj\Debug\SmtpSender.csproj.GenerateResource.Cache
+D:\Рабочий стол\SmtpSender\SmtpSender\obj\Debug\SmtpSender.csproj.CoreCompileInputs.cache
+D:\Рабочий стол\SmtpSender\SmtpSender\obj\Debug\SmtpSender.exe
+D:\Рабочий стол\SmtpSender\SmtpSender\obj\Debug\SmtpSender.pdb
+D:\Рабочий стол\SmtpSender\SmtpSender\obj\Debug\SmtpSender.MainForm.resources
